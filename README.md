@@ -3,6 +3,8 @@
 <h1 align="left">I'm Hasan</h1>
 <h3 align="left">An full-time learner frontend developer from Turkey</h3>
 
+<a href="https://app.daily.dev/hasanka"><img src="https://raw.githubusercontent.com/kahasan/kahasan/1076fcdcf44074c6c135eeeb846342420d0c8623/devcard.svg" width="256" align="right" alt="Hasan KAHRAMAN's Dev Card"/></a>
+
 <p align="left"> <a href="https://twitter.com/hsn_kahramn" target="blank"><img src="https://img.shields.io/twitter/follow/hsn_kahramn?logo=twitter&style=for-the-badge" alt="hsn_kahramn" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript and React deeply**
