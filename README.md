@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="left">I'm Hasan</h1>
-<h3 align="left">An full-time learner frontend developer from Turkey</h3>
+<h3 align="left">A full-time learner frontend developer ✨</h3>
 
 <a href="https://app.daily.dev/hasanka"><img src="devcard.svg" width="256" align="right" alt="Hasan KAHRAMAN's Dev Card"/></a>
 
