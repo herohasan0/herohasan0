@@ -5,7 +5,7 @@
 
 <a href="https://app.daily.dev/hasanka"><img src="devcard.svg" width="256" align="right" alt="Hasan KAHRAMAN's Dev Card"/></a>
 
-<p align="left"> <a href="https://twitter.com/hsn_kahramn" target="blank"><img src="https://img.shields.io/twitter/follow/hsn_kahramn?logo=twitter&style=for-the-badge" alt="hsn_kahramn" /></a> </p>
+<p align="left"> <a href="https://twitter.com/herohasan0" target="blank"><img src="https://img.shields.io/twitter/follow/hsn_kahramn?logo=twitter&style=for-the-badge" alt="herohasan0" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript and React deeply**
 
